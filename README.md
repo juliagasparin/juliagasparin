@@ -1,6 +1,6 @@
 ## Olá, eu sou a Julia 👋
 
-Sou engenheira em transição para desenvolvimento de software, com foco em
+Sou engenheira estudando desenvolvimento de software, com foco em
 arquitetura: Clean Architecture, DDD, Design Patterns e testes automatizados, em
 Python e TypeScript. Venho de experiências em lógica, automação e modelagem de dados e
 estou expandindo para arquitetura de sistemas e desenvolvimento full-stack.
