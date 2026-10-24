@@ -1,6 +1,6 @@
 # Olá, eu sou a Julia 👋
 
-Estudo desenvolvimento de software com foco em arquitetura (Clean Architecture, DDD, Design Patterns) e testes automatizados, em Python e TypeScript. Cada repositório aqui é uma prova prática: entregue, testado e documentado, com as decisões e os erros corrigidos pelo caminho.
+Engenheira estudando desenvolvimentoo de software com foco em arquitetura (Clean Architecture, DDD, Design Patterns) e testes automatizados, em Python e TypeScript. Cada repositório aqui é uma prova prática: entregue, testado e documentado, com as decisões e os erros corrigidos pelo caminho.
 
 **Stack:** Python · FastAPI · PostgreSQL · Redis · Celery · TypeScript · React · Pytest · GitHub Actions
 
